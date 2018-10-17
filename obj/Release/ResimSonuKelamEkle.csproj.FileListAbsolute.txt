@@ -1,0 +1,10 @@
+C:\Users\mkaan\source\repos\ResimSonuKelamEkle\ResimSonuKelamEkle\bin\Release\ResimSonuKelamEkle.exe.config
+C:\Users\mkaan\source\repos\ResimSonuKelamEkle\ResimSonuKelamEkle\bin\Release\ResimSonuKelamEkle.exe
+C:\Users\mkaan\source\repos\ResimSonuKelamEkle\ResimSonuKelamEkle\bin\Release\ResimSonuKelamEkle.pdb
+C:\Users\mkaan\source\repos\ResimSonuKelamEkle\ResimSonuKelamEkle\obj\Release\ResimSonuKelamEkle.Form1.resources
+C:\Users\mkaan\source\repos\ResimSonuKelamEkle\ResimSonuKelamEkle\obj\Release\ResimSonuKelamEkle.Properties.Resources.resources
+C:\Users\mkaan\source\repos\ResimSonuKelamEkle\ResimSonuKelamEkle\obj\Release\ResimSonuKelamEkle.csproj.GenerateResource.cache
+C:\Users\mkaan\source\repos\ResimSonuKelamEkle\ResimSonuKelamEkle\obj\Release\ResimSonuKelamEkle.csproj.CoreCompileInputs.cache
+C:\Users\mkaan\source\repos\ResimSonuKelamEkle\ResimSonuKelamEkle\obj\Release\ResimSonuKelamEkle.exe
+C:\Users\mkaan\source\repos\ResimSonuKelamEkle\ResimSonuKelamEkle\obj\Release\ResimSonuKelamEkle.pdb
+C:\Users\mkaan\source\repos\ResimSonuKelamEkle\ResimSonuKelamEkle\obj\Release\ResimSonuKelamEkle.csprojResolveAssemblyReference.cache
